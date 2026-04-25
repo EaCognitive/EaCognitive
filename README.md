@@ -1,32 +1,39 @@
-# Hi, I'm Erick Aleman 👋
+# Erick Aleman
 
-**AI Systems Architect | Forward Deployed Engineer**
+AI Systems Architect and Forward Deployed Engineer focused on production GenAI systems, agentic workflows, retrieval, evaluation, and enterprise governance.
 
-I specialize in GenAI, Agentic Workflows, RAG, Eval Frameworks, and Enterprise Governance & Security. My approach to engineering is **correctness-first**.
+I build correctness-first AI infrastructure: systems that are observable, testable, governable, and practical enough to operate in real environments.
 
----
+## Selected Work
 
-## 🚀 Featured Projects
+**[AgentGate](https://github.com/EaCognitive/agentgate)**  
+Runtime governance control plane for AI agents. Intercepts tool calls for policy enforcement, PII protection, human approvals, and verification workflows.
 
-*   **[AgentGate](https://github.com/EaCognitive/agentgate)**: AI agent runtime governance control plane. Intercepts tool calls with PII protection, approvals, and formal verification.
-*   **[Incident Command Mesh](https://github.com/EaCognitive/incident-command-mesh)**: Incident-response reference architecture built with Google ADK, A2A, and MCP.
-*   **[Parameter Golf](https://github.com/EaCognitive/parameter-golf)**: A challenge to train the smallest language model that fits in 16MB.
-*   **[Metivta Eval](https://github.com/EaCognitive/Metivta-Eval)**: Evaluation harness and benchmark tooling.
+**[Incident Command Mesh](https://github.com/EaCognitive/incident-command-mesh)**  
+Reference architecture for incident-response agents built around Google ADK, A2A, and MCP-style tool orchestration.
 
-## 🤝 Open Source Contributions
+**[Metivta Eval](https://github.com/EaCognitive/Metivta-Eval)**  
+Evaluation harness and benchmark tooling for domain-specific retrieval and question-answering systems.
 
-I actively contribute to the open-source ecosystem, particularly in AI, RAG, and core web technologies. Some of the projects I've contributed to include:
+**[Parameter Golf](https://github.com/EaCognitive/parameter-golf)**  
+Experimentation around compact language-model training under strict size constraints.
 
-*   **[LlamaIndex](https://github.com/run-llama/llama_index)**: Enhancing instrumentation events and core types using modern Pydantic declarative serialization.
-*   **[LiteLLM](https://github.com/BerriAI/litellm)**: Fixing streaming cost calculations and standardizing types.
-*   **[Shadcn-UI](https://github.com/shadcn-ui/ui)**: Improving WCAG AA compliance for contrast and intuitive UX states in V4.
-*   **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)**: Clarifying test dependencies and improving curriculum.
+## Engineering Focus
 
-I also have ongoing contributions to **LangChain**, **Microsoft Semantic Kernel**, **Anthropic Python SDK**, and **Google ADK**.
+- Agent runtime governance, approval workflows, and policy enforcement
+- Retrieval-augmented generation systems and evaluation pipelines
+- LLM observability, tracing, and correctness-oriented test harnesses
+- Enterprise AI security, privacy, and deployment controls
+- Forward deployed engineering for ambiguous, high-context systems
 
----
+## Open Source
 
-### 📫 Get in Touch
+I contribute primarily in AI infrastructure, SDKs, retrieval systems, and developer tooling. My public work is focused on small, targeted fixes with tests and clear review surfaces.
 
-- **Location**: Washington, D.C.
-- **Website**: [eacognitive.com](https://www.eacognitive.com)
+Current areas of contribution include LlamaIndex, LiteLLM, Google ADK, Semantic Kernel, Copilot SDK, and Vertex AI SDKs.
+
+## Contact
+
+- Washington, D.C.
+- [eacognitive.com](https://www.eacognitive.com)
+- [LinkedIn](https://www.linkedin.com/in/erick-ai/)
