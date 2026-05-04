@@ -6,6 +6,9 @@ I build correctness-first AI infrastructure: systems that are observable, testab
 
 ## Selected Work
 
+**[AI Coder Production Lab](https://github.com/EaCognitive/ai-coder-production-lab)**  
+Production-minded AI coding workflow lab with local RAG, safety gates, structured outputs, confidence scoring, trace events, evals, and CI.
+
 **[AgentGate](https://github.com/EaCognitive/agentgate)**  
 Runtime governance control plane for AI agents. Intercepts tool calls for policy enforcement, PII protection, human approvals, and verification workflows.
 
@@ -17,6 +20,13 @@ Evaluation harness and benchmark tooling for domain-specific retrieval and quest
 
 **[Parameter Golf](https://github.com/EaCognitive/parameter-golf)**  
 Experimentation around compact language-model training under strict size constraints.
+
+## Production AI Case Studies
+
+- [AI Coder Production Lab](https://github.com/EaCognitive/ai-coder-production-lab): runnable support-ticket workflow with local RAG, safety, tracing, evals, and CI gates.
+- [AgentGate](https://github.com/EaCognitive/agentgate): runtime governance for tool-using agents.
+- [Incident Command Mesh](https://github.com/EaCognitive/incident-command-mesh): multi-agent incident response reference architecture.
+- [Metivta Eval](https://github.com/EaCognitive/Metivta-Eval): retrieval and QA evaluation harness.
 
 ## Engineering Focus
 
