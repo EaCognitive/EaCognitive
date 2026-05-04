@@ -28,9 +28,7 @@ Experimentation around compact language-model training under strict size constra
 
 ## Open Source
 
-I contribute primarily in AI infrastructure, SDKs, retrieval systems, and developer tooling. My public work is focused on small, targeted fixes with tests and clear review surfaces.
-
-Current areas of contribution include LlamaIndex, LiteLLM, Google ADK, Semantic Kernel, Copilot SDK, and Vertex AI SDKs.
+I contribute selectively in AI infrastructure, SDKs, retrieval systems, and developer tooling. My public work is focused on small, targeted fixes with tests, clear review surfaces, and maintainers' stated priorities.
 
 ## Contact
 
